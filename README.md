@@ -112,6 +112,7 @@ A curated list of awesome niche job boards.
 
 ## Remote
 
+* [Career Vault](https://careervault.io/)
 * [We Work Remotely](https://weworkremotely.com/)
 
 ### Aggregator
